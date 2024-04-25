@@ -1,5 +1,5 @@
 # Componets app 
-Pokedex App in React Native with call apis, cache, navigation and searce.
+Pokedex App in React Native with call apis, cache, navigation, debounce and search.
 
 ## How to run 
 - Clone/download the repo.
