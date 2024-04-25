@@ -6,3 +6,20 @@ Pokedex App in React Native with light and dark mode, call apis, cache, navigati
 - Install the dependencies with `npm install`.
 - Run the project with Android `npm start`.
 - Run the project with iOS `npm run start:ios`.
+
+## Screenshots
+<div style="overflow-x: auto;">
+<table>
+   <tr>
+      <td> <img src="./src/screenshots/ios-light-home.png" width="375" height="500"> </td>
+      <td> <img src="./src/screenshots/ios-light-detail.png" width="375" height="500"> </td>
+      <td> <img src="./src/screenshots/ios-light-search.png" width="375" height="500"> </td>
+   </tr>
+
+   <tr>
+      <td> <img src="./src/screenshots/android-dark-home.png" width="375" height="500"> </td>
+      <td> <img src="./src/screenshots/android-dark-detail.png" width="375" height="500"> </td>
+      <td> <img src="./src/screenshots/android-dark-search.png" width="375" height="500"> </td>
+   </tr>
+</table>
+</div>
